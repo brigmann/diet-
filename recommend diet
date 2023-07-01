@@ -12,7 +12,7 @@ gender = input('Enter your gender (M or F): ')
 height_in_meters = height / 100
 bmi = weight / (height_in_meters ** 2)
 
-# Print the user's BMI
+# Print the user's BMI!
 print(f'Your BMI is {bmi:.2f}')
 
 # Give recommendations based on the user's BMI
