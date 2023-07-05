@@ -1,5 +1,5 @@
 # Define the recommended daily calorie intake for males and females
-MALE_CALORIES_PER_DAY = 2500
+MALE_CALORIES_PER_DAY = 2549
 FEMALE_CALORIES_PER_DAY = 2000
 
 # Ask the user for their weight, height, age, and gender
